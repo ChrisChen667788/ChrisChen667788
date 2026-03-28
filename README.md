@@ -9,7 +9,7 @@ Building tools for high-signal research, focus, and execution.
 Open-source AI research workspace for signal triage, WeChat-first collection, focus sessions, and action cards.
 
 - Repository: https://github.com/ChrisChen667788/antifomo
-- Latest release: https://github.com/ChrisChen667788/antifomo/releases/tag/v0.1.0
+- Latest release: https://github.com/ChrisChen667788/antifomo/releases/latest
 - Roadmap: https://github.com/ChrisChen667788/antifomo/issues/1
 - Discussion: https://github.com/ChrisChen667788/antifomo/discussions/4
 
