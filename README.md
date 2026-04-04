@@ -2,6 +2,14 @@
 
 Building open-source research workflows and local-first AI tools.
 
+![Profile cover](./assets/profile-cover.png)
+
+## Profile visual system
+
+- Avatar asset: `assets/profile-avatar.png`
+- Social preview asset: `assets/profile-cover.png`
+- Visual system notes: `docs/profile-visual-system.md`
+
 ## Pinned projects
 
 ### [Anti-FOMO](https://github.com/ChrisChen667788/antifomo)
