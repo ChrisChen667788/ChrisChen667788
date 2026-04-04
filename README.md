@@ -2,12 +2,15 @@
 
 Building open-source research workflows and local-first AI tools.
 
-![Profile cover](./assets/profile-cover.png)
+![Profile hero](./assets/profile-hero.svg)
 
 ## Profile visual system
 
 - Avatar asset: `assets/profile-avatar.png`
+- README hero asset: `assets/profile-hero.svg`
 - Social preview asset: `assets/profile-cover.png`
+- Square social asset: `assets/profile-social-square.png`
+- Repo banner asset: `assets/profile-repo-banner.png`
 - Visual system notes: `docs/profile-visual-system.md`
 
 ## Pinned projects

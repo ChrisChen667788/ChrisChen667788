@@ -1,0 +1,35 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="90" y1="70" x2="1100" y2="1100" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#F5F8FF"/>
+    <stop offset="0.5" stop-color="#F3F5FF"/>
+    <stop offset="1" stop-color="#FFF4D6"/>
+  </linearGradient>
+  <radialGradient id="orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 226) rotate(90) scale(190)">
+    <stop stop-color="#B7D5FF" stop-opacity="0.42"/>
+    <stop offset="1" stop-color="#B7D5FF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="strip" x1="120" y1="1008" x2="520" y2="1008" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#2FC3F2"/>
+    <stop offset="1" stop-color="#6E7CF7"/>
+  </linearGradient>
+  <filter id="shadow" x="500" y="470" width="560" height="390" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#0F172A" flood-opacity="0.18"/>
+  </filter>
+</defs>
+<rect width="1200" height="1200" rx="56" fill="url(#bg)"/>
+<circle cx="250" cy="226" r="190" fill="url(#orb)"/>
+<rect x="120" y="94" width="446" height="58" rx="29" fill="rgba(255,255,255,0.74)"/>
+<text x="156" y="132" fill="#5A667D" font-size="20" font-weight="700" letter-spacing="0.13em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">CHRIS CHEN · OPEN SOURCE</text>
+<text x="120" y="292" fill="#0F172A" font-size="70" font-weight="720" letter-spacing="-0.055em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">Build calm</text>
+<text x="120" y="370" fill="#0F172A" font-size="70" font-weight="720" letter-spacing="-0.055em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">systems.</text>
+<text x="120" y="724" fill="#4A5B74" font-size="28" font-weight="560" letter-spacing="-0.03em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">Research workflows, AI reports,</text>
+<text x="120" y="764" fill="#4A5B74" font-size="28" font-weight="560" letter-spacing="-0.03em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">and local-first runtime ops.</text>
+<rect x="120" y="968" width="400" height="62" rx="31" fill="url(#strip)"/>
+<text x="158" y="1009" fill="#F8FAFC" font-size="26" font-weight="700" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">antifomo · local-agent-lab</text>
+<g filter="url(#shadow)"><rect x="540" y="500" width="480" height="300" rx="38" fill="#111A2B"/></g>
+<text x="590" y="566" fill="#7AE5FF" font-size="22" font-weight="700" letter-spacing="0.13em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">PINNED WORK</text>
+<text x="590" y="628" fill="#F8FAFC" font-size="38" font-weight="720" letter-spacing="-0.045em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">Research workflows</text>
+<text x="590" y="672" fill="#F8FAFC" font-size="38" font-weight="720" letter-spacing="-0.045em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">and runtime ops.</text>
+<text x="590" y="734" fill="#C9D4E5" font-size="22" font-weight="600" letter-spacing="-0.03em" font-family="SF Pro Display, Inter, Segoe UI, sans-serif">antifomo · local-agent-lab</text>
+</svg>

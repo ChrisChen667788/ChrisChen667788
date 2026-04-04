@@ -6,8 +6,14 @@ This repository holds the public-facing visual assets for the `ChrisChen667788` 
 
 - Avatar PNG: `assets/profile-avatar.png`
 - Avatar SVG: `assets/profile-avatar.svg`
+- README hero PNG: `assets/profile-hero.png`
+- README hero SVG: `assets/profile-hero.svg`
 - Profile cover PNG: `assets/profile-cover.png`
 - Profile cover SVG: `assets/profile-cover.svg`
+- Square social PNG: `assets/profile-social-square.png`
+- Square social SVG: `assets/profile-social-square.svg`
+- Repo banner PNG: `assets/profile-repo-banner.png`
+- Repo banner SVG: `assets/profile-repo-banner.svg`
 
 ## Recommended usage
 
@@ -34,6 +40,18 @@ Why:
 - introduces the profile direction immediately
 - matches the product covers already used across the public repos
 - keeps color and typography consistent across share cards
+
+### GitHub README hero
+
+Use:
+
+- `assets/profile-hero.svg`
+
+Why:
+
+- better line length and calmer editorial spacing
+- visually consistent with the updated `antifomo` and `local-agent-lab` hero assets
+- easier to reuse as a profile landing surface
 
 ### Repo-level social preview mapping
 
